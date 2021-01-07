@@ -1,2 +1,2 @@
-# -GCSO-Project-C-20
-In this programming project, I was able to use an algorithm that allowed me to detect collision and with that knowledge test car safety and reliability in the event of a car crash. First, I had set the velocity and speed at random numbers and based upon the deformation range after calculation, I used an if() condition to change the shapeColor of the vehicle. Also, once the car was in contact with the wall, I set the velocity =0 and change color as already mentioned.
+# p5.play-boilerplate
+Boiler plate for p5.play
